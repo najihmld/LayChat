@@ -18,7 +18,7 @@
     "firebaseui": "^4.4.0",
     "install": "^0.13.0",
     "react": "16.9.0",
-    "react-native": "0.61.5",
+    "react-native": "0.62.3",
     "react-native-audio": "^4.3.0",
     "react-native-contacts": "^5.0.7",
     "react-native-dialog": "^5.6.0",
